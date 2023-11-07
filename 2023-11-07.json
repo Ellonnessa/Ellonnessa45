@@ -1,0 +1,26 @@
+{
+  "name": "Mike Davis",
+  "age": 64,
+  "address": {
+    "street": "Feguk Drive",
+    "city": "Defsivsu",
+    "state": "NE",
+    "zip": "68499"
+  },
+  "contact": {
+    "phone": "(987) 950-8419",
+    "servicePhone": "800295475"
+  },
+  "birthday": "1993-12-31T17:51:35.164Z",
+  "ip": "45.108.78.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Licowniz ugu sode zipge gage gepbe hoov tekfehne pias se komcopu bum po efi fohuliv nini loriftot nun. Eb jowrihuw ce wa niiv leveme ha pibpe docissi zatde pucoro ni jaguphit. Wiz zo ofzitka dohon ivabihra po vigsab nesakgoc fewpecra poife de rodrijga ohefagvow sahi doguh borfika re bup.",
+    "bio": "Ibo pa si mu ag pep penog det gom futebobi weronil sav. Liv is hulkitu daspuhej nagfenap hetfos ig fihen lo ricba ithap re mem aje cobsummup. Sug vo ra ug lok jezomip dasmasoc odegu bezku sukpelaz aso guzmoz watova."
+  },
+  "apiKey": "e009f95a2b610bf283a622d6e0fc06c55b4bf746495041648a2920bdf0fb888f",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
