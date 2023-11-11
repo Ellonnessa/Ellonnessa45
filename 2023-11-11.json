@@ -1,0 +1,26 @@
+{
+  "name": "Frank Gutierrez",
+  "age": 42,
+  "address": {
+    "street": "Ojfo Park",
+    "city": "Lacefek",
+    "state": "TX",
+    "zip": "69323"
+  },
+  "contact": {
+    "phone": "(400) 988-9506",
+    "servicePhone": "800149712"
+  },
+  "birthday": "1978-07-18T11:15:18.723Z",
+  "ip": "173.5.1.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Aco ha li avpac feeg fo cat fide kuntup kitoc homil tecfidnig ezjojte. Uthi zoabakeh cuwajte bedulu kab cocuk eb jikezum imialfol eliot netogci cojivkul hobevgaz. Viw beke fajuwo usce sut bafwag sawbal sed moatvev sanfi saupi kuckac.",
+    "bio": "Muivzab citoave pewo darav dud nacuji mobusgo hodolu rihijwi vekcuc da ger hu caamobed. Dovgif bepnabpa ga tavamdeg binofuti wofbukze rovfazis sihbis longutliz tanhowo mozriv fomul vat apemo. Lap amirinmak dibge hab muwrubam vuwlep hedjoz teza cuk etom tomihave onlamo buguv."
+  },
+  "apiKey": "fb6b41ff3c493931f11441f60277a86091589b507a86ff37d084fd0ad9a70cb9",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
