@@ -1,0 +1,26 @@
+{
+  "name": "Hattie Gilbert",
+  "age": 18,
+  "address": {
+    "street": "Tilo Highway",
+    "city": "Ovzojra",
+    "state": "CO",
+    "zip": "44535"
+  },
+  "contact": {
+    "phone": "(757) 321-8141",
+    "servicePhone": "800692556"
+  },
+  "birthday": "2004-12-28T10:35:15.471Z",
+  "ip": "194.116.171.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Zutasa sucereb uz tam oh sod jummif fe tof mojgojac pogdava on. Dibcacpi ked mevochi cejupso efe lentiv agefian ar dof nufu vedjulsu taw. Su so kusiro lu ow niwwituz dievezev ike ih wohemok butbe zeso noer.",
+    "bio": "Jikucub kisuzo juvba tocdaap udbirmen halo koruh ewivovag riwi okahad bussuuzo napizcig sinnodik dagov huimre. Nazozu mol na hukso vem wiv jop ahvuv siv belgu repvi boj. Kunemipe vifor gor jenaro parar gefar garwadag solidvu zeeri reniw fu osajumu ejho aselfeb fajefuh weg wuksi navcajza."
+  },
+  "apiKey": "60582fe5e3363425d0e7dc5e7925f62ec7d93bde509215814671d633093f523e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
