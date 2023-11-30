@@ -1,0 +1,26 @@
+{
+  "name": "Walter Clarke",
+  "age": 38,
+  "address": {
+    "street": "Nuula Point",
+    "city": "Riheel",
+    "state": "NC",
+    "zip": "26274"
+  },
+  "contact": {
+    "phone": "(615) 415-6445",
+    "servicePhone": "800566947"
+  },
+  "birthday": "1968-02-01T02:49:39.050Z",
+  "ip": "93.152.240.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Lizija bi hugakev geziz di beprut bif kebe kujek mewun kesdij bozuk mem urked wo uzkab. Ebe zu de ozi ezewozha toruku hogi uw hu iw cufuwsot cowa nuzimrel roumodo kohdufze lurakfad. Zapabi oroci boczo pinawir vohut wuz harcawfor ihawamret cirraz narez wak voup jidnasdic le uke kicec moszuz kunlulite.",
+    "bio": "Ebiza eguucpor rol hojirize zur othe pamtebov tig azo paenowi bozehen zir. Pimivric rim aroka usipeod mekcufjug ot busivod uvdep hijtot ep nekun saar. Leop veviz vuh amavofsuk eme dafdan eklof itrazna rozreda ihadojwej moaroza roz. Ola vele lu zo kozuhkoc juhi saghopgo wej ilsi vaj go zac go dukig vipkus paso."
+  },
+  "apiKey": "a5f5032a78cc5595e30c182700187dbb7fbc67ce8f075e1477f1fbf808eac7e0",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
