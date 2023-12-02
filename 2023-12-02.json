@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Marshall",
+  "age": 62,
+  "address": {
+    "street": "Epopez Ridge",
+    "city": "Pamnarror",
+    "state": "NY",
+    "zip": "02461"
+  },
+  "contact": {
+    "phone": "(723) 805-6295",
+    "servicePhone": "800693724"
+  },
+  "birthday": "2001-12-01T17:08:55.270Z",
+  "ip": "145.145.155.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez kuzuiwo pitjug tag walpo kupe ik ejugofa mijbo vegfefge hor terbij. Fopdu ajwakpig bom cisfa wuoluve ri gedorke savepzot migrej kaslavez alirijuf komrom fa hojaku. Oninavno ocukodane kuhunuci of cibpob la zovhupov tojawho kapuhdun narte zahmi ewiut iji wuvocepu icubuziba faaf.",
+    "bio": "Jiegu sa vimopuebo cebap rifroh eziotna ninalew bocfif rawna jetpunu ti tev kiflekkuv utrinhef sitku. Geppila etiv kuig ohopi onri uliga vangeszi hafam viofahih ofmosa avvu gioc nargecvi jozzamca papwimal. Zofjaf ca tusevig zazeeco za edvegez loggoer sabet zoddo bezgejpif lit evusebet him gojan nani dakca fa."
+  },
+  "apiKey": "b2a54bbf95199da2c8360067f2f8cd1c1b6b108a7d67159e53122dc741b18ca0",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
