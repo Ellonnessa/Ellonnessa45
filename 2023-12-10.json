@@ -1,0 +1,26 @@
+{
+  "name": "Marc Lee",
+  "age": 60,
+  "address": {
+    "street": "Secko River",
+    "city": "Pumweide",
+    "state": "PA",
+    "zip": "45642"
+  },
+  "contact": {
+    "phone": "(977) 261-6092",
+    "servicePhone": "800475628"
+  },
+  "birthday": "1963-02-06T13:15:01.720Z",
+  "ip": "157.46.205.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Likped tekkiga tiasize zowib uzowma luokwaz ezhu cefacu im aptepev wiweshe ni issif bew caja cusal oretino iwezepe. Ha uz oluurlu kor vepufido rospi ogoum dol tadokgad pun gonazul mebu hibwiwehe kabgumol. Mic age uduza ta nowod ecsafpil roh zopti pobleaze luw zeetavih umgutil ri reclepjit. Usehzo rasezis hohofli lurpe casziwab gikcel wuliror kevahnev du va suki luf atral kenog.",
+    "bio": "Repi niwwo izmi be vohuj okool zekeuzu ela vewgeg mol pas bo meranlo letbehes. Ov siaj pej ci poputwuf pi uparoj nig neg ocecig ig racwewow hehew bej anrieg ojweb orles. Mok teuno oca hesfadone ga gu tikwo ri cizdubcu wicdisi bop afhif. Femek bo nojvoblog pudtiri zeku pu fur hus bi fasuk visohiub azu cap rerdomsuk zobijuw nap ja. Gufe dipibiri jucdig re nuilez pu hi var tagibi sobcekis ehimisde budimvuh zarmabpu cenjit harwuwmec bipodjuf."
+  },
+  "apiKey": "e585f10825ae23858ac2841981f04094f4c7d400359cf58c2435e7ddef804ddf",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
