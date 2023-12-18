@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Maldonado",
+  "age": 54,
+  "address": {
+    "street": "Caru Circle",
+    "city": "Doediik",
+    "state": "CA",
+    "zip": "05087"
+  },
+  "contact": {
+    "phone": "(986) 583-2266",
+    "servicePhone": "800763394"
+  },
+  "birthday": "1968-06-02T17:58:07.565Z",
+  "ip": "193.244.75.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Arla lubsi keomoam nic uku ohizi ju ohar puvgegar awte itoc bihehu nakga eseb lef. Umolutha gize zac li afokezdez zut aku wuloj ancub de vonozgif me roze. Sa lujdede zufezub jobfotci viw ocu fiawimez vuvhaceha za gef vumsiplaz nacoduk. Mu uvwop naru nigsiz be vidom lencit sidjultow si rosadev tir ahekacuga moedefeh berok imfegu vofakjik.",
+    "bio": "Usaleifi si ruim lo azubat zom makzop ve cokuvi nal du lab daru cavec guedudub udabulkig tapnif ujoen. Lowam eli lare rit wa tojobji ropis vopuhafot nupah gidut kawekki zuzuzi asninoga sehvavaz buropte ahaomo bumirwac losvudpud. Lefpalziv puj zedtov gugdak ho rirpo um dad wukpirim pure filehebo sazukik kozanob udokawe iw muvisze. Bode ho feegza inuponu bo ec tohcuczac az bih tufarih teku ibimehgu pihud wip duwgojuh megoh ho. Ere woeca fiuwebur viswa vabola fa wo ime sip zudowaubi rur susbusga nu."
+  },
+  "apiKey": "38699f041b859d34f82767a9605a4c1c98beeb1fa38f29d000704e51faa422a9",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
