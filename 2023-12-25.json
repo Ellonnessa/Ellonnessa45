@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Grant",
+  "age": 35,
+  "address": {
+    "street": "Tomci Parkway",
+    "city": "Ruputipi",
+    "state": "MD",
+    "zip": "56132"
+  },
+  "contact": {
+    "phone": "(664) 632-5569",
+    "servicePhone": "800239779"
+  },
+  "birthday": "1997-03-07T14:43:21.535Z",
+  "ip": "30.158.225.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Kogwi buwe hisamu ud wen womegok covnukul boape savoncup vi zossolib igeunjuh elrac. Faheru dud dilkup hiciba vujwo duzu vi nedag peged doab uvnah ukolek. Da otwic caza roodu vivmal jezuvhiw tephek cugihvez nim hekja figiwe ba sosro pe dacernoc duika.",
+    "bio": "Oslip himaw nuhulfu coebcen jottigho jejim mahveb sa uginusoj cibisa ter siceh ji. Zil var ap hekuca rewdosic cofma zoduw kil fiama iwofa ojuizebav jakdaif veron. Otuewolun vosuzjak fu usmo seb lu acitoh pirsauha iw sari bofvav jaw. Gul rol hupizu wiluwma joniju kowuuk ivre povmi ri kut lufu kafduela eho atde."
+  },
+  "apiKey": "bb8b0e0aeda494e5245e5a706de21613efb4e3aeb0d73ca0e0e07ca9212e0019",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
