@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Tran",
+  "age": 55,
+  "address": {
+    "street": "Pikwes Park",
+    "city": "Licoco",
+    "state": "OR",
+    "zip": "13535"
+  },
+  "contact": {
+    "phone": "(812) 539-3143",
+    "servicePhone": "800973212"
+  },
+  "birthday": "1977-04-16T09:45:23.653Z",
+  "ip": "193.115.54.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Tokehja du gejro cerej wiori miwbewu ene igcat da gonvudej menud fi koadoiva kaf. Kukocof muvece pumije tutapaw ubelen bis turuwro vabe omozu lagda nih sis sepo ma cuccikgun otoacala ledo pu. Cu apza vurwo nedmu vaju luznaaje subijas hideum zofsu lirle nesufe hefap rullulze ivni vi kekuh. Rilbohi je fumuc tu mov zurcu mompihe ca tusaba oj uhe epede kujtitoj vuzjuvek mesoilo pinta mibihu.",
+    "bio": "Usule uma ledajow kauni afadiv zada savka tevfape na po vipbapej duojope cevrogke lokozgif naszaggot keva. Erfas pa tud nezjavic nufucfih rosaome beimo vanotel bov akju foketvar il mapkur jubpam algit vobaz lukri. Sidvuk aseite zutki tug ba kergom nebisi zir pomna ho de og cipmorof petac lais wopjid mak. Lejide akfig waomiro vu ji ec jokah kicola esu coemuavi igmuv housa degap. Hikumma iwwuk tumewel pamgevu owidojza sipomdov sucfusom run hihaco gefsem zeacmar hokusod cizculnog gamo cuffadih."
+  },
+  "apiKey": "b98d1cea0bd79094a0bff40740262b556c8d91bd84bd1e0db658ef02f559cb80",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
