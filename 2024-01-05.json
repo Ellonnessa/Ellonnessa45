@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Fisher",
+  "age": 18,
+  "address": {
+    "street": "Ravkir Glen",
+    "city": "Pavletsin",
+    "state": "NC",
+    "zip": "63876"
+  },
+  "contact": {
+    "phone": "(548) 646-8929",
+    "servicePhone": "800666565"
+  },
+  "birthday": "2002-11-07T22:39:59.555Z",
+  "ip": "198.73.31.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Gatjabeg ujinecer ilhohsa vamla bum ucvikon inucuh joez of zi kubhiku cidbev hukediga. Mebtafkoh uleobzu ko gejos toomi fo ho bofanrac woduij dutec kuffi cioro naukocul wiiteal evazu jeawe. Ekomozraz dazaat nizomomo karcoolo zod re ere poduru ici kul tomevip eridored rismanli mojbe irjoota. Awrof ewadobube toloj owobarwos pel evo tocwoca naadooj vuhubuv pukeh kiik nuh fe nutocgu ijo mo.",
+    "bio": "Barupi donkag ahole kavod wog bopasi hiho muv uf ectu uno meziteref ta bibto kapceg. Kizeh tihema vute kej gaijo mad waznulah nik is cioge ru raejeen tad. Agberu ermupuku ve li fa toz ruzet zi ewdarug lu waube sel ij ofraduv gosesam tubah velhu eki."
+  },
+  "apiKey": "35701f7c37b13e0b3f1196d6ac40b54fa8a48a04ca9ca981a414f8936c7a25d2",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
