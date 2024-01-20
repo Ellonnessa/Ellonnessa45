@@ -1,0 +1,26 @@
+{
+  "name": "Sally Daniel",
+  "age": 36,
+  "address": {
+    "street": "Dajlem Manor",
+    "city": "Lopafi",
+    "state": "WY",
+    "zip": "16885"
+  },
+  "contact": {
+    "phone": "(325) 694-1194",
+    "servicePhone": "800465628"
+  },
+  "birthday": "1998-04-28T02:43:56.797Z",
+  "ip": "225.239.129.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Loode vu vuh itbi as ulaotan opo cud cugo tekukhiz sasrimiw bapjahow vak go. Ata hucu cef lahku hobcutoz ted anged ifsebgib lebjar ra bo wazobwir ri jid ke guzihes. Ur esebel wu nirtosap raf dif lor kazopad nire asa uda bi ezeoli ac.",
+    "bio": "Ikvafhe wozlacbe jus za he uge belfi teshutik ve kisuwdoj pej wa radpube cidtutbut pogop. Asopi eceoc gif adol iwezohina do lik ovebi horlel beez makose tod ses ka giew dovas. Weko faefooz cesmofad wawelonap zif kaluz fin om nisuvza hul mamzo ama. Hu ege rif te sinaodi oloderib nok muzzacto obasir juf gig du."
+  },
+  "apiKey": "609a6cb37ea1bf0b22b0751b7de2d4d2f70571e950959eb3525ec966853cc099",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
