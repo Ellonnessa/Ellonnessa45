@@ -1,0 +1,26 @@
+{
+  "name": "Howard Norris",
+  "age": 26,
+  "address": {
+    "street": "Cirum Boulevard",
+    "city": "Tukadem",
+    "state": "MO",
+    "zip": "88827"
+  },
+  "contact": {
+    "phone": "(251) 950-2412",
+    "servicePhone": "800524296"
+  },
+  "birthday": "1977-06-11T14:19:35.870Z",
+  "ip": "146.109.75.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Zeb anid watanag foz ne guwa saknah ozzaj faud be pom gejupu. Zonvaawe rac jebfaw kevoziv some higdetzir rob ri fig luwis bobohkaz te vudjibpo epoduh isoni neznarul. Gidbuvod evhibag bivviwje elubizrim ivube va hippelak suhlour monlomgip sevivag irukoone iw sosne loasab wawaw numsota ujnutihi aligukni. De apzuj naed ros ekaki alopabpoz hac lu lako mek nusevta sec bi. Basoztih of raba kug ose tu kozufe go jood pabnodu za osa ovujo epnaz uho vatli epmo.",
+    "bio": "Hucarati dum feju fetoj ume te focimmis hi zivefmam lik mumo ma ehiac ta za jom. Kefcoro pehdejbi tij gonilowuv wi suna enu ugezukek udoked oma suhejagi ufleb fuz laijizi. So net tumkane cafvunu duik norud ad hi sebsab rinob cil sugoh weuwga wozofet cezwinle dospebtu wehpa. Puhva sugukul rarniij voccuop how go tujiba lojahem top leh umpuwa fe jujpuveh cor hacehozi lirbogrul zu. Kofut zo paifejig fak higice fu pa nejlop ris odso en al pekhelhi imuto cihiki cimo ege zo."
+  },
+  "apiKey": "ee04dea1556204ef2d65ba55c23ac241c6047a87d94651139df2048ff99da71d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
