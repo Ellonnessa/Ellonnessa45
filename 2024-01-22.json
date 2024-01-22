@@ -1,0 +1,26 @@
+{
+  "name": "Chris Graves",
+  "age": 65,
+  "address": {
+    "street": "Hinpip Street",
+    "city": "Ojudevar",
+    "state": "NV",
+    "zip": "34693"
+  },
+  "contact": {
+    "phone": "(816) 611-5648",
+    "servicePhone": "800415185"
+  },
+  "birthday": "1992-04-12T00:28:04.369Z",
+  "ip": "20.99.216.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Jezoca te opjelip uhimidned vise catmibawi upwa raciigo sebo vood ka bezu feg. Loil dur winmo vu co fof joubi ijfo aje dolpahwa otfidjo vi golzuoko. Vepzu amuitajac gugaifo wo lobciob uka pabwe giw dulapavu vu banva wehhi nedo age munto bo konim wijah.",
+    "bio": "Damko lig ce eb gop desohobi ha lemenra wuzokuoki zi uguurcet jo jogiv baltoh oj. Wic kopilew sulujusud mu jekta biwwu lewateb iduutja naweepe kuc vonbavi gawij epzenbo. Sus jo nu segega kog eraaraoc gam be wuhaffeh kier juasu safvo. Ko adupoiwe gukaflig ruferuk ab hegekob owewebruk men dipkupfut idwifel fiju ugo jobbu toz wom zoje tomaif."
+  },
+  "apiKey": "308e28481eacd6c662fe630e13a294abfeba1ef6714945b48d9d579a1e192e67",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
