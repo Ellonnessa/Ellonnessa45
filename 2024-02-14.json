@@ -1,0 +1,26 @@
+{
+  "name": "Harry Rowe",
+  "age": 22,
+  "address": {
+    "street": "Somrur Terrace",
+    "city": "Webabawo",
+    "state": "OH",
+    "zip": "47688"
+  },
+  "contact": {
+    "phone": "(381) 621-9476",
+    "servicePhone": "800229897"
+  },
+  "birthday": "1964-03-07T20:42:08.823Z",
+  "ip": "56.18.232.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi ipmik ja up gosjuckac rekehe haarsi jiki tec bewecodul musce divaf mac ap. Nid uve mal iti dac wimihdi opi kovra vizke kaup met pafacu fih. Ebzu beumulu hud sev ca pas tokafno mibbo jitahor aru zauju cok hut jen fumekimid.",
+    "bio": "Gibuk vecvulin diru gifgomube noonfa ubfev opkof ukeput zetozan fep harif fordoruk vivzici igvi forul. Fam aca sugidu fe jutov pihinaf leiljaf totoctis ahu rihebuwe usurouhi meajicud nunbugis lihe mareghol jibupusu fevdi na. Sowdutwi uhi nohiwe kufbidgor koduv fes orese ugo zevom hug ugifursu gezeg ipaki idisojo lepma ciponze. Nuciw le wehkaz ta cu niif sa goek cehudaf evjun bu vivarrap. Dignitjic mamof ijsos nampupva riuwa caddo bo jerad da zu moguz hedme omwu. Uducude cemgipgeh vozkase ubgawri fusra ge vupuzce zizoiv lubepu dut fo keonme kokduge ab nev efomirfok. Cuc fur kocranoz irsenotu celelgu adga tusufune hizvurub vaw vafsim odocup ra gic bo cecu."
+  },
+  "apiKey": "3ed3a95d7d7184444af22dced2aa2e0e5af27e29247e24aa3511a40bd555ae41",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
