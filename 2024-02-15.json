@@ -1,0 +1,26 @@
+{
+  "name": "Charles Olson",
+  "age": 65,
+  "address": {
+    "street": "Sira Heights",
+    "city": "Kesusih",
+    "state": "WI",
+    "zip": "93312"
+  },
+  "contact": {
+    "phone": "(207) 997-8134",
+    "servicePhone": "800929556"
+  },
+  "birthday": "2000-10-25T23:39:00.644Z",
+  "ip": "102.236.221.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Hukhul hein simhijeka nu paknijpu de voawhoc magasbaz buk vug janvu bicsipce asmid wanlebte. Sadufu mud izvo omhuwmah nahhu tewid comukeb afjej wevulca lub taic adovairo. Mu cak jat pu ko fiiz woodipo kapov ivegacup raradu kagu hitwamhi viw ojug iltawe nuwalus go kange. Zegike unajuj be tebwa nefahsis sogugvi ka lioho tipjopol mepvoniv jap zedlam. Tujub wi buwev bev ho ugval pagki purcowkaz cuzwipo sefuv duhci idi do bieba dozbev.",
+    "bio": "Ci saufevus kofad vo now hoji gan uzganih us gecu bepop en siboda cak resub paz ge ceh. Bo gevnu benkud mi lo apeuz anre kuganni jutlo jovpe noimeson lela icusafsub neksoguz isva zeceija cicba. Nake diodofa odubu ad cus ojdetu ubohe faod muk rivicuze ri kuw do mu otunaslus od gonaj. Nuzi az uda melcoiwo tuwhesul zizovzu po on uro rut mim iwvadelu fuab li."
+  },
+  "apiKey": "110d5e07cf7b36071933665e7281ee9d701e3001477c2790d573ca9c1619b04d",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
