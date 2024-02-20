@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Singleton",
+  "age": 58,
+  "address": {
+    "street": "Rojke Street",
+    "city": "Vudeja",
+    "state": "IN",
+    "zip": "57615"
+  },
+  "contact": {
+    "phone": "(301) 237-5213",
+    "servicePhone": "800659591"
+  },
+  "birthday": "2003-06-02T06:03:15.772Z",
+  "ip": "100.35.225.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi deze bule ojwases serig fotezlip onujun jucop avulo eji viuwi zekabilew id eje ha. Hudeli judoof pupleat ab ak poc seffe jorere unasen ekapgos na susi wace gimu bujjip si uzgino. Noge anurowbi ava zaop usepur of uculeov cijmuw surfil du bijbo mabzino no. Wasod wosdumuv wak de do zakirmuv hamifuho god fo cumu eda himos go. Kazan okeeta etudani melagper tuwhifod guwfuaha kamkimo nadmiwo okrutsi ba amies jehtec usated utfaju ni paf ozbopruf itilejot. Fu jelpismom were cehenus fo hoja mi cume kozih ta alihurir pe ik falcut zod pohtas ewdub. Kinode wuv kemsajod todida bobguv na ite cegejpaj wev subo juwajef paogjeb tikpupim uwo jeop.",
+    "bio": "Zof buvucu leb li cejumsin boh mefar rajipopa vevgagfet wu je utwuki. Mildal ej heh bim zafirov nuv il hud fu cocsiim gocrubwiw sor erloese figju wup ig. Ozewi vaca cevki ziaza asa otibecof ka biv pagmov zenzamjo ocpa evesep konel idided borectih loobloh."
+  },
+  "apiKey": "8900f10368c11b0766a642d7d827d0bb3477ff92727e9662c6a0b3b987d00bf5",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
