@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Henry",
+  "age": 37,
+  "address": {
+    "street": "Cicuh Center",
+    "city": "Mozilba",
+    "state": "MN",
+    "zip": "46841"
+  },
+  "contact": {
+    "phone": "(236) 933-6409",
+    "servicePhone": "800913152"
+  },
+  "birthday": "1985-09-02T14:56:19.801Z",
+  "ip": "34.231.103.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Avilunud zaib wefusej tikefuzuk hic bohehtun al ci hek avko mucofe teh huimwog bo. Bosbate ima ezmubje fi hagusizu la ifgagsuh gagu id nabvotsi zebeznez gejuwkot zabig uzwuzguc. Te oblu ceflo uco agoane fawebul darvo ojuar za ocu zekipho guj ujige omcos. Ve nirwo runoah zazmezwi gerko concasbe kadowco fesor ubi zoc awfapa ek laemo lan. Amulu fes liha majmul duz vicim eraha gekciwuz tel opu laj cecfo kifosune uj ebinu akuren evuz. Gujsu lipeku pe nurohze diwwuttiz jibnap nop nadu ac okjuz rafwusev da.",
+    "bio": "Hi fowok bicoje ci hor omtejdeg iw hadauju kur hawgos haaknar guki bikvofo fec hahufkir oneve. Ce imneug cajen gud fiovli dar hu ki dicicub zorupulu amvi pitarpi napo. Mipowi tu ju doze nijroctoj huw cuzum we zuscuw vur eti wial geted ti."
+  },
+  "apiKey": "adcece55860900ca31e2564113e26209b62899c1631771fc2d4ec14e760c5ba9",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
