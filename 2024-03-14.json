@@ -1,0 +1,26 @@
+{
+  "name": "Belle Barton",
+  "age": 24,
+  "address": {
+    "street": "Mipe Junction",
+    "city": "Jerukued",
+    "state": "KY",
+    "zip": "70713"
+  },
+  "contact": {
+    "phone": "(764) 556-5754",
+    "servicePhone": "800532395"
+  },
+  "birthday": "1986-01-14T23:22:06.470Z",
+  "ip": "178.36.95.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma ikba bour ene curic is zaguzi ki gu dil co wuzheari. Zi loha va vuwifanat ricov woda ilon mictazi ku azga ti zijlo sanesiw cueha nim. Ga bewlerdat cu du inugazu tij zo da datke hupveferu pustogopa kef.",
+    "bio": "Cam dowanum pudil lifoke bivecpu bu ajezasmiv wetuho imike hebte kej ro hoh jaelutek ip. Us aneom hepfof salemun nar matnira egebaile mewgobos govazlaj ikado nodjow vilmeh wureale runa. Jodnon ve miviv wunu dobikehu do gulozvec vos dufi his fi fepezop faz onorobe kewwun tu. Tuluzze dejbaru af ob lidjakpom ebzam irluh tuwrouba selaacu gatvoopo evwosra ohjul wivo om. Cun fic rufda uvezilo ilaceuh dar uj vobtiej utfo awuagezis we zevil dacrife si. Etarod li marlubpi sirzib howaw iso kozafbol kehobtu navi osiofle ni lozekip. Sap we dav su enkooza migco vasi ojvow sulgob kucrigol kocul wospotow zuvawacu aso cemrehud cubug ilaof."
+  },
+  "apiKey": "15a06b6ce68a0a860460eeee29d5cdc00409e86fe96a8c5cc2499a280059f6bf",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
