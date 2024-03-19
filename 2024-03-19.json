@@ -1,0 +1,26 @@
+{
+  "name": "Alex Lynch",
+  "age": 20,
+  "address": {
+    "street": "Cawfaj Path",
+    "city": "Parkaci",
+    "state": "HI",
+    "zip": "92223"
+  },
+  "contact": {
+    "phone": "(873) 544-3988",
+    "servicePhone": "800519191"
+  },
+  "birthday": "1970-03-20T12:11:03.827Z",
+  "ip": "34.158.25.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Fahsutaz ezabku juwahwah duiboero ese nu resca rol unisir ucifud bo buiz fo ognavni. Fu dunsis tafmiptil komiguf eda zudobki sad kivsu dig tev ewed fu wi baftub papibu zerhurer. Ciw keza bojif ti zusev lickad afeuma houtope efaon ruw boni jizjuwlu cig lomohvoz gu.",
+    "bio": "Tillehon epowifcef houbfut odutwid fupkup nosbevfe ocbes aloeb hi cik monbar avitopo iclairi ranlib mebkiul dolru ap. Evijuso hu cit mudcoceg emu jip ziho kejow te tuow sa ih tidwar wa. Ij ma taj agi ujagane oktu get son gu hi ge om salof vaara jutvooso uf bujjib. Ahzapbo esuedebam ja kuk taciki lizkidu wepeab ne ohamami uvsile ocfu huzcab seohu fomuwiv."
+  },
+  "apiKey": "f670831597b4358e4c66a47f5adb0e119c7a180b07b82d739241832dd89153ca",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
